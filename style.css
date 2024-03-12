@@ -179,8 +179,7 @@ html, body {
 svg {
   overflow: visible;
   position: absolute;
-  top: 1500;
-  left: 0;
+  top: 2000px;
   left: 0;
   scale: ;
 }
